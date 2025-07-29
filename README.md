@@ -1,1 +1,4 @@
 # A-Comprehensive-Anti-Theft-Vehicle-Protection-framework-using-embedded-Electronics-and-Python
+The project "A Comprehensive Anti-Theft Vehicle Protection Framework Using Embedded Electronics and Python" is an advanced vehicle security system that combines biometric authentication, sensor-based theft detection, and real-time communication. It uses an ESP32 microcontroller to control components like a fingerprint sensor, vibration sensor, GPS, GSM, camera module, buzzer, and LCD display.
+
+When unauthorized access is attempted, the system triggers alarms, captures the intruder’s image, and sends it via email. Simultaneously, GPS coordinates are sent via SMS, and the vehicle can be remotely immobilized. This multi-layered approach ensures high security through real-time monitoring and remote control, offering a smarter solution to modern vehicle theft.
